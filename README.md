@@ -1,13 +1,3 @@
-# Expo Router Example
+# Expo Firebase Demo CSE3MAD
 
-Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native navigation using files in the `app/` directory.
-
-## 🚀 How to use
-
-```sh
-npx create-expo-app -e with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
+## Note: you will need to set up firebase and firestore to use this app.
